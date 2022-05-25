@@ -10,6 +10,7 @@ header {
 
 ul {
     list-style-type: none;
+    display: flex;
 }
 
 a:link { text-decoration: none; }
