@@ -8,6 +8,10 @@ header {
     flex-direction: row;
 }
 
+.left-side {
+    font-size: 24px;
+}
+
 ul {
     list-style-type: none;
     display: flex;
