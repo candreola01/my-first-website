@@ -11,6 +11,7 @@ header {
 ul {
     list-style-type: none;
     display: flex;
+    gap: 8px;
 }
 
 a:link { text-decoration: none; }
