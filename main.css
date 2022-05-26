@@ -103,5 +103,10 @@ a:link {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    
+    font-size: 30px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
 }
