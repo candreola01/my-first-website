@@ -25,6 +25,10 @@ header {
     padding-top: 100px;
 }
 
+.shrink {
+    width: 300px;
+}
+
 .image {
     align-self: flex-end;
     padding-right: 100px;
