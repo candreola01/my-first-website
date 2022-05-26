@@ -130,7 +130,11 @@ footer {
     margin: 100px;
     width: 500px;
     gap: 50px;
+}
 
+.direction {
+    display: flex;
+    flex-direction: column;
 }
 
 .button2 {
