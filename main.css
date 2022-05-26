@@ -54,17 +54,23 @@ h1 {
 
 button {
     width: 70px;
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
 }
 
 img {
     width: 200px;
+   
 }
 
 
 ul {
     list-style-type: none;
     display: flex;
-    gap: 8px;
+    gap: 16px;
     font-size: 18px;
 }
 
@@ -76,4 +82,11 @@ a:link {
  a:visited {
      color: white;
      text-decoration: none;
+ }
+
+ .middle-container {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+
  }
