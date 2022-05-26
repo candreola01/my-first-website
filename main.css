@@ -23,10 +23,13 @@ header {
     flex-direction: column;
 }
 
+button {
+    width: 70px;
+}
+
 img {
     width: 200px;
 }
-
 
 
 ul {
