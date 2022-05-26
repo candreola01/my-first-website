@@ -122,5 +122,9 @@ footer {
 }
 
 .button2 {
-    border: white;
+    border: 2px solid white;
+    border-radius: 4px;
+    padding: 8px;
+    text-align: center;
+    width: 100px;
 }
