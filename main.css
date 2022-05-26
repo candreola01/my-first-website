@@ -21,9 +21,12 @@ header {
     background-color: #1f2937;
     display: flex;
     flex-direction: row;
-    padding-left: 100px;
-    padding-top: 100px;
+    gap: 50px;
+    padding-bottom: 50px;
+    align-items: center;
+    justify-content: center;
 }
+
 
 
 h1 {
@@ -39,8 +42,7 @@ h1 {
 
 .image {
     display: flex;
-    padding-right: 300px;
-    flex: 1 1 0;
+    justify-self: center;
     
 }
 
