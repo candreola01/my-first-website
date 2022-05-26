@@ -24,6 +24,12 @@ header {
     padding-left: 100px;
 }
 
+.image {
+    align-self: flex-end;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
 button {
     width: 70px;
 }
