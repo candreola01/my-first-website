@@ -127,6 +127,8 @@ footer {
     padding-right: 50px;
     padding-top: 25px;
     padding-bottom: 25px;
+    margin: 100px;
+    width: 500px;
     gap: 50px;
 
 }
